@@ -1,0 +1,16 @@
+Ai intrat pe serverul "PGL-ZOMBIE.PROSTRIKE.NET"
+
+Harta curenta : zm_ice_attack3
+Adresa server, add fav: pgl-zombie.prostrike.net
+
+Comenzi rapide:
+say /meniu 	; Informati despre server / preturi admin
+say /zspawn	; Intri in joc doar pentru 8 ammo daca esti mort
+say /lm		; Cumperi Laser Mine / o plantezi apasa pe P
+say /unstuck	; Te deblocheaza daca esti blocat
+say /top15	; Best 15 Players
+say /rank	; Rank-ul tau
+say /rankstats	; Statistici Rank
+
+Daca vrei un slot sau vrei sa te inscri in comunitate,
+Intra pe wWw.prostrike.net

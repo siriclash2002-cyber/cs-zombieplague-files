@@ -1,0 +1,19 @@
+-------------------------------------
+zm_dust_kamp by Ubek & MieTeK
+-------------------------------------
+ _____________
+|WERSJA Final|
+ -------------
+
+Mapa specjalnie zrobiona dla serwera Zombie Apocalypse,
+Na mapie jest duzo kamp i ukryte bronie :D
+==========================================
+Zmiany:
+-Pozmieniane s¹ niektóre tekstury
+-usuniête b³êdy np. chodzeniê po niebie
+-usuniêcie mo¿liwoœci wchodzenia na tekstury
+-dodane zosta³y ukryte miejsca
+==========================================
+Mi³ej gry na mapie ¿yczy Ubek & MieTeK
+-------------------------------------
+WWW.ZOMBIEAPOCALYPSE.PL

@@ -1,0 +1,9 @@
+cs_dust.wad
+cs_office.wad
+gfx/env/Desup.tga
+gfx/env/Desdn.tga
+gfx/env/Deslf.tga
+gfx/env/Desrt.tga
+gfx/env/Desft.tga
+gfx/env/Desbk.tga
+models/palmtree.mdl
